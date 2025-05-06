@@ -42,5 +42,16 @@ A backend service for a mobile-friendly weather application. It fetches current 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/weather-app-backend.git
-cd weather-app-backend
+git clone https://github.com/irshadmglm/wheather-app.git
+cd backend
+
+2. Install dependencies
+
+npm install
+
+3. Start the development 
+
+node index.js
+
+
+
